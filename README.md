@@ -1,6 +1,9 @@
 This project is a small prototype mortgage calculator built as part of a job simulation exercise for the Forage "Lloyds Banking Group - Technology Engineer" simulation.
 # Lloyds Mortgage Prototype (Forage Job Simulation)
 
+![Alt text for the image](assets/mortgage-calculator)
+
+
 This repository contains a small prototype mortgage calculator built as part of the Forage "Lloyds Banking Group - Technology Engineer" simulation.
 
 Purpose
